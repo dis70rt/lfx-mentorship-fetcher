@@ -24,7 +24,7 @@ This project is a Python-based client to interact with the Linux Foundation Ment
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/iit-saikat/lfx-mentorship-fetcher.git
+    git clone https://github.com/dis70rt/lfx-mentorship-fetcher.git
     ```
 
 2. Navigate to the project directory:
