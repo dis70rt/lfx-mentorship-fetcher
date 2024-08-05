@@ -44,7 +44,7 @@ This project is a Python-based client to interact with the Linux Foundation Ment
 1. Initialize the `LFXClient`:
 
     ```python
-    from lfx_client import LFXClient
+    from LFX import LFXClient
 
     client = LFXClient()
     ```
